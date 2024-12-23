@@ -1232,3 +1232,5 @@ www.zoho.com zohowebstatic.com * allow
 * https://www.gstatic.com/recaptcha/ * noop
 * https://www.gstatic.com/recaptcha/ script noop
 pa-cdn2.pvd.to
+pa-cdn1.pvd.to
+pa.pvd.to
